@@ -8,12 +8,6 @@
   <img src="https://streak-stats.demolab.com?user=nestoree&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
   <img width="12" />
@@ -45,11 +39,5 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nestoree/nestoree/snake.svg" alt="Snake animation" />
 
 ###
