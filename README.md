@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nestoree/nestoree/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nestoree/nestoree/snake.svg" alt="Snake animation" />
 
 ###
