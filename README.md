@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is nestore and I'm a developer and bug bounty.</h1>
+<h1 align="center">Hi 👋!</h1>
 
 ###
 
