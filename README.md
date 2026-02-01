@@ -1,59 +1,48 @@
-# 👋 Hi, I'm nestoree 👨‍💻
+# 👋 Hola, soy Néstor
 
-Welcome to my GitHub profile!
-
-I'm a **self-learning developer** interested in:
-- 🐍 Python development
-- 🔐 Cybersecurity (educational)
-- 🖥️ Automation & system tools
-- 🌐 Web projects and local platforms
-- 🧪 Learning by building small projects
+Soy estudiante y apasionado por la programación, especialmente con **Python y Bash)**.  
+Me gusta crear herramientas útiles, automatizaciones y scripts que resuelvan problemas reales, ya sea para proyectos personales o profesionales.
 
 ---
 
-## 🚀 About Me
+## 🛠 Tecnologías que manejo
 
-- 🧠 Always learning and experimenting with code
-- 🔍 Interested in how things work at a low level
-- 🛠️ I like building scripts, tools, and small platforms
-- 📚 Focused on **educational and experimental projects**
-- 💡 Exploring security concepts responsibly
+- **Lenguajes:** Python, Bash, HTML, CSS, JS  
+- **Herramientas:** VScode, GitHub, Terminal, VBox, VMware  
+- **Áreas de interés:** Automatización, Seguridad, Bots, Scripts CLI, Web scraping
 
 ---
 
-## 🧰 Technologies & Tools
+## 🚀 Proyectos destacados
 
-- **Languages:**  
-  - Python  
-  - Bash (basic)  
-  - HTML / CSS (basic)
+### [Termsg](https://github.com/nestoree/termsg)  
+💻 Script CLI que crea un **chat cifrado** entre usuarios.  
+🔧 Tecnologías: Python  
+🔹 Ideal para practicar criptografía y comunicación segura entre usuarios.
 
----
+### [file-crypto-analysis](https://github.com/nestoree/file-crypto-analysis)  
+💻 Ransomware creado en Python como proyecto de análisis y estudio de seguridad.  
+⚠ Solo con fines educativos y de investigación.
 
-## 🧪 What You'll Find Here
+### [TTL-OS-Detector](https://github.com/nestoree/TTL-OS-Detector)  
+💻 Detecta el sistema operativo de una máquina basada en el **TTL de los paquetes de red**.  
+🔧 Tecnologías: Python  
+🔹 Útil para análisis de redes y auditorías de seguridad.
 
-- 📁 Educational Python scripts
-- 🔐 Security learning projects
-- ⚙️ Automation and system utilities
-- 🧠 Experiments and proof-of-concept code
-- 📌 Projects focused on understanding, not production
-
----
-
-## ⚠️ Disclaimer
-
-Most repositories are created for **learning and experimentation purposes**.  
-They are **not intended for production use** unless explicitly stated.
-
----
-
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nestoree&show_icons=true&theme=tokyonight)
+### [telegram-server-automation](https://github.com/nestoree/telegram-server-automation)  
+💻 Bot de Telegram que automatiza tareas de servidor:  
+- Detecta cambios en tu IP pública y actualiza configuraciones de WireGuard  
+- Envía alertas sobre intentos de conexión SSH y usuarios conectados  
+🔧 Tecnologías: Python, Bash  
+🔹 Ideal para automatización y seguridad en servidores personales.
 
 ---
 
-## ✨ Final Note
+## 📫 Contacto
 
-> *Learning by doing is the best way to grow as a developer.*
+- [LinkedIn](https://www.linkedin.com/in/néstor-solares-hernández-116969315/)  
+- [Correo](mailto:nestorsolaresherdz@gmail.com)  
+
+---
+
+**💡 Nota:** Todos los proyectos con fines de aprendizaje y experimentación. Usa con responsabilidad.
